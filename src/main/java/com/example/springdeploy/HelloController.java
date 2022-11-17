@@ -15,7 +15,7 @@ public class HelloController {
     public String HolaMundo(){
         System.out.println(message);
 
-        return "Hola Mundo que tal vamos, Hasta luego";
+        return "CAROLINA TE AMO MUCHO";
     }
 
     @GetMapping("/")
@@ -31,7 +31,7 @@ public class HelloController {
                   </head>
                   <body>
                     <h1>Hola mundo desde spring boot!</h1>
-                    <a class="btn btn-primary" href="https://www.google.com">Google<a/>
+                    <a class="btn btn-primary" href="https://www.youtube.com/watch?v=6kq1_J-R6JE">PRESIONA<a/>
                     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
                   </body>
                 </html>
